@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "账号密码登录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "bg-logo": "/components/bgLogo/bgLogo",
+    "u--text": "/node-modules/uview-ui/components/u--text/u--text",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast",
+    "u--input": "/node-modules/uview-ui/components/u--input/u--input",
+    "u-divider": "/node-modules/uview-ui/components/u-divider/u-divider",
+    "u-checkbox-group": "/node-modules/uview-ui/components/u-checkbox-group/u-checkbox-group",
+    "u-checkbox": "/node-modules/uview-ui/components/u-checkbox/u-checkbox",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "注册骑手",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-steps": "/node-modules/uview-ui/components/u-steps/u-steps",
+    "u-steps-item": "/node-modules/uview-ui/components/u-steps-item/u-steps-item",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast",
+    "u-upload": "/node-modules/uview-ui/components/u-upload/u-upload",
+    "u--input": "/node-modules/uview-ui/components/u--input/u--input",
+    "u-radio-group": "/node-modules/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/node-modules/uview-ui/components/u-radio/u-radio",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u--text": "/node-modules/uview-ui/components/u--text/u--text"
+  }
+}

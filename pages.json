@@ -1,0 +1,168 @@
+{
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+            "path" : "pages/login/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "登录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/accountLogin",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "账号密码登录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/register",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "注册",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/user/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/user/center",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个人中心",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+
+        ,{
+            "path" : "pages/user/main/myOrder",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的订单",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/user/main/orderInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "订单详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/user/main/inputForm",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "填写订单信息",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/user/main/confirmOrder",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "确认订单",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/riderRegister",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "注册骑手",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/rider/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "骑手",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/rider/center",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/rider/main/orderInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/rider/main/moreInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "订单详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/rider/main/myOrder",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的订单",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/user/main/acceptedOrder",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "骑手已接单",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/user/main/test",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

@@ -1,0 +1,1 @@
+<view class="page-body data-v-2e170fda"><view class="title_history data-v-2e170fda"><text class="data-v-2e170fda">历史订单</text></view><order-list vue-id="d6692728-1" orderList="{{orderList}}" class="data-v-2e170fda" bind:__l="__l"></order-list></view>

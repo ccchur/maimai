@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/login/index",
+    "pages/login/accountLogin",
+    "pages/login/register",
+    "pages/user/index",
+    "pages/user/center",
+    "pages/user/main/myOrder",
+    "pages/user/main/orderInfo",
+    "pages/user/main/inputForm",
+    "pages/user/main/confirmOrder",
+    "pages/login/riderRegister",
+    "pages/rider/index",
+    "pages/rider/center",
+    "pages/rider/main/orderInfo",
+    "pages/rider/main/moreInfo",
+    "pages/rider/main/myOrder",
+    "pages/user/main/acceptedOrder"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取客户实时定位，显示客户与地图位置"
+    }
+  },
+  "usingComponents": {}
+}

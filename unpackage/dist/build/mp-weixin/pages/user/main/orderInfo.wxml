@@ -1,0 +1,1 @@
+<view><order-content vue-id="10008205-1" orderList="{{orderList}}" bind:__l="__l"></order-content><view><u-toast class="vue-ref" vue-id="10008205-2" data-ref="uToast" bind:__l="__l"></u-toast></view></view>

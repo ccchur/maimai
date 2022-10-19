@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "填写订单信息",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "input-info": "/components/inputInfo/inputInfo",
+    "input-address": "/components/inputAddress/inputAddress",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "history-address": "/components/historyAddress/historyAddress",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast"
+  }
+}

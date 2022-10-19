@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "rider-order": "/components/riderOrder/riderOrder",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast",
+    "map": "/components/map/map"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "top-info": "/components/topInfo/topInfo",
+    "u-sticky": "/node-modules/uview-ui/components/u-sticky/u-sticky",
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs",
+    "wyb-notice-bar": "/components/wyb-noticeBar/wyb-noticeBar",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "goods-form": "/components/goodsForm/goodsForm",
+    "map": "/components/map/map"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "骑手",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "top-info": "/components/topInfo/topInfo",
+    "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper",
+    "rider-order": "/components/riderOrder/riderOrder",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast"
+  }
+}

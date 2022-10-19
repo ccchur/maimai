@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u--text": "/node-modules/uview-ui/components/u--text/u--text",
+    "u--input": "/node-modules/uview-ui/components/u--input/u--input",
+    "u-radio-group": "/node-modules/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/node-modules/uview-ui/components/u-radio/u-radio"
+  }
+}
